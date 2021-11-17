@@ -24,6 +24,8 @@ multi new
 
 ![image](./screenshots/3.jpg)
 
+![image](./screenshots/4.jpg)
+
 ## Author 作者
 
 github: https://github.com/potato-carrot
